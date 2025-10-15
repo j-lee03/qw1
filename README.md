@@ -3,14 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>일정 관리 프로그램 README</title>
-    <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; }
-        .container { max-width: 800px; margin: 20px auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px; }
-        h1, h2, h3 { border-bottom: 1px solid #eee; padding-bottom: 10px; }
-        code { background-color: #f4f4f4; padding: 2px 6px; border-radius: 4px; font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace; }
-        pre { background-color: #f4f4f4; padding: 15px; border-radius: 4px; overflow-x: auto; }
-        blockquote { border-left: 4px solid #ddd; padding-left: 15px; color: #555; }
-    </style>
+ 
 </head>
 <body>
     <div class="container">
