@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>일정 관리 프로그램 README</title>
+   
  
 </head>
 <body>
